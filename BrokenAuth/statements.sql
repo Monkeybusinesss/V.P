@@ -1,5 +1,4 @@
 CREATE DATABASE brokenauth;
-
 USE brokenauth;
 
 CREATE TABLE user(
